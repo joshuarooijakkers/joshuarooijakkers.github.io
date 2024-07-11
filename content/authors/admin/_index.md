@@ -57,10 +57,10 @@ education:
     date_start: 2024-09-01
     date_end: 2025-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Relevant coursework: Bayesian Statistics, Quantitative Risk Management, Advanced Time Series Econometrics
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'uploads/BDAE_thesis.pdf'
   - area: B.Sc. Econometrics and Operations Research
     institution: Erasmus University Rotterdam
     date_start: 2021-09-01
@@ -68,7 +68,7 @@ education:
     summary: |
       GPA: 8.3/10
 
-      Relevant coursework: Forecasting, Time Series Analysis, Regression, Multivariate Statistics, Optimization Algorithms
+      Relevant coursework: Forecasting, Markov Models, Regression, Multivariate Statistics, Optimization Algorithms
 
       Thesis on model uncertainty in deep medical image denoising models.
     button:
@@ -85,26 +85,26 @@ education:
 work:
   - position: Data Analyst Intern
     company_name: Philips
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    company_url: 'https://www.philips.co.id/healthcare'
+    company_logo: 'media/philips_logo.png'
+    date_start: 2023-08-15
+    date_end: 2024-02-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted data analysis of campaign performance, delivering reports and presentations to stakeholders on weekly and monthly basis.
+      - Developed data-driven model to automate the forecasting of monthly online order intake values for NAM Monitoring business in 2024 (\euro 100M+), saving approx. 320 hours of work per year.
+      - Engineered and deployed a global media data dashboard (PowerBI), enhancing real-time reporting and analytics for 20+ employees.
+
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: 'https://www.philips.co.id/healthcare'
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
