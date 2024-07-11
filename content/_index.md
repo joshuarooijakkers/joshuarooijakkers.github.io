@@ -40,6 +40,9 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
+      button:
+        text: 'Read Thesis'
+        url: 'uploads/BDAE_thesis.pdf'
     design:
       columns: '1'
   - block: collection
