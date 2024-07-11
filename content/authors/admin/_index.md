@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Joshua Rooijakkers
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Joshua
+last_name: Rooijakkers
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aspiring Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,61 +31,60 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:joshua.rooijakkers@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/joshuarooijakkers
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/joshuarooijakkers/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Time Series Analysis
+  - Natural Language Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Econometrics and Management Science
+    institution: Erasmus University Rotterdam
+    date_start: 2024-09-01
+    date_end: 2025-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. Econometrics and Operations Research
+    institution: Erasmus University Rotterdam
+    date_start: 2021-09-01
+    date_end: 2024-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 8.3/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Relevant coursework: Forecasting, Time Series Analysis, Regression, Multivariate Statistics, Optimization Algorithms
+
+      Thesis on model uncertainty in deep medical image denoising models.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: Minor in AI Engineering
+    institution: Delft University of Technology
+    date_start: 2023-09-01
+    date_end: 2024-02-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 9.2/10
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant coursework: Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Analyst Intern
+    company_name: Philips
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
