@@ -73,7 +73,7 @@ education:
       Thesis on model uncertainty in deep medical image denoising models.
     button:
       text: 'Read Thesis'
-      url: 'static/BDAE_thesis.pdf'
+      url: 'static\uploads\BDAE_thesis.pdf'
   - area: Minor in AI Engineering
     institution: Delft University of Technology
     date_start: 2023-09-01
