@@ -2,8 +2,8 @@
 # Display name
 title: Joshua Rooijakkers
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Joshua
@@ -24,8 +24,8 @@ role: Aspiring Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Erasmus School of Economics
+    url: https://www.eur.nl/en/ese
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:joshua.rooijakkers@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/joshuarooijakkers
   - icon: brands/linkedin
     url: https://www.linkedin.com/joshuarooijakkers/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/instagram
+    url: https://www.instagram.com/joshuarooijakkers/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Deep Learning
