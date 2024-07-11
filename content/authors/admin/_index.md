@@ -73,7 +73,7 @@ education:
       Thesis on model uncertainty in deep medical image denoising models.
     button:
       text: 'Read Thesis'
-      url: 'experience/uploads/BDAE_thesis.pdf'
+      url: 'static/BDAE_thesis.pdf'
   - area: Minor in AI Engineering
     institution: Delft University of Technology
     date_start: 2023-09-01
@@ -86,7 +86,7 @@ work:
   - position: Data Analyst Intern
     company_name: Philips
     company_url: 'https://www.philips.co.id/healthcare'
-    company_logo: 'experience/media/philips_logo.png'
+    company_logo: 'assets/philips_logo.png'
     date_start: 2023-08-15
     date_end: 2024-02-01
     summary: |2-
