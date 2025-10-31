@@ -21,14 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a visiting researcher at the department of Statistical Science at UCL in the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group supervised by [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) and [Matias Altamirano](https://maltamiranomontero.github.io/). My research focuses on robust Bayesian machine learning methods.
 
-My research visit is supported by the Dutch National Culture fund ([Cultuurfonds](https://www.cultuurfonds.nl/)).
+My research visit is supported by the Dutch National Culture Fund ([Cultuurfonds](https://www.cultuurfonds.nl/)).
 
 Previously, I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics).
