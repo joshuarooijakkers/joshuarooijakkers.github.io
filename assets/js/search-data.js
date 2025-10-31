@@ -43,16 +43,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-trophy-our-team-reached-2nd-place-at-the-world-championships-econometrics",
           title: ':trophy: Our team reached 2nd place at the World Championships Econometrics!',
           description: "",
+          section: "News",},{id: "news-started-my-research-visit-at-ucl",
+          title: 'Started my research visit at UCL.',
+          description: "",
           section: "News",},{id: "news-finished-writing-my-first-paper-multi-output-robust-and-conjugate-gaussian-processes",
-          title: 'Finished writing my first paper Multi-Output Robust and Conjugate Gaussian Processes',
+          title: 'Finished writing my first paper Multi-Output Robust and Conjugate Gaussian Processes!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
