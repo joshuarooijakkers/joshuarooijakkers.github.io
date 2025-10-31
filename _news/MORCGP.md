@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished writing my first paper [Multi-Output Robust and Conjugate Gaussian Processes](https://arxiv.org/abs/2510.26401)
+Finished writing my first paper [Multi-Output Robust and Conjugate Gaussian Processes](https://arxiv.org/abs/2510.26401)!
