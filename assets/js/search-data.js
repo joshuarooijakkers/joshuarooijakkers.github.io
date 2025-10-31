@@ -48,11 +48,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-trophy-our-team-reached-2nd-place-at-the-world-championships-econometrics",
+          title: ':trophy: Our team reached 2nd place at the World Championships Econometrics!',
           description: "",
-          section: "News",},{id: "news-our-team-reached-2nd-place-at-the-world-championships-econometrics",
-          title: 'Our team reached 2nd place at the World Championships Econometrics!',
+          section: "News",},{id: "news-finished-writing-my-first-paper-multi-output-robust-and-conjugate-gaussian-processes",
+          title: 'Finished writing my first paper Multi-Output Robust and Conjugate Gaussian Processes',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
