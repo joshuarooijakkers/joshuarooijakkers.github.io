@@ -123,10 +123,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+blog_name: # blog_name will be displayed in your blog page
+blog_description: 
+permalink:
+# lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -181,14 +181,26 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
-  projects:
+  blog:
+    output: false
+  publications:
     output: true
+  projects:
+    output: false
+  repositories:
+    output: false
+  cv:
+    output: false
+  teaching:
+    output: false
+  people:
+    output: false
+  books:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
