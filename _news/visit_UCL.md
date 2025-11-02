@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my research visit at UCL.
+:office: Started my research visit at UCL.

@@ -23,8 +23,8 @@ announcements:
 
 ---
 
-I am a visiting researcher at the department of Statistical Science at UCL in the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group supervised by [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) and [Matias Altamirano](https://maltamiranomontero.github.io/). My research focuses on robust Bayesian machine learning methods.
+I am a visiting researcher in the Department of Statistical Science at University College London (UCL) in the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group under the supervision of [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) and [Matias Altamirano](https://maltamiranomontero.github.io/). My research focuses on robust Bayesian machine learning methods.
 
 My research visit is supported by the Dutch National Culture Fund ([Cultuurfonds](https://www.cultuurfonds.nl/)).
 
-Previously, I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics).
+Previously, I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics), with a minor in AI Engineering at [TU Delft](https://www.tudelft.nl/en/eemcs).
