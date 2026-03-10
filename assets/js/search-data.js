@@ -43,14 +43,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-medal-military-i-am-honored-to-have-been-awarded-the-jan-hemelrijk-award-for-best-master-s-thesis",
-          title: ':medal_military: I am honored to have been awarded the Jan Hemelrijk Award for...',
-          description: "",
-          section: "News",},{id: "news-trophy-our-team-reached-2nd-place-at-the-world-championships-econometrics",
+            },},{id: "news-trophy-our-team-reached-2nd-place-at-the-world-championships-econometrics",
           title: ':trophy: Our team reached 2nd place at the World Championships Econometrics!',
           description: "",
           section: "News",},{id: "news-page-facing-up-finished-writing-my-first-paper-multi-output-robust-and-conjugate-gaussian-processes",
           title: ':page_facing_up: Finished writing my first paper Multi-Output Robust and Conjugate Gaussian Processes!',
+          description: "",
+          section: "News",},{id: "news-medal-military-i-am-honored-to-receive-the-jan-hemelrijk-award-for-my-master-s-thesis",
+          title: ':medal_military: I am honored to receive the Jan Hemelrijk Award for my master’s...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
