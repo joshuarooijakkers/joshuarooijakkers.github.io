@@ -23,6 +23,6 @@ announcements:
 
 ---
 
-I am a researcher in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/), supervised by [Edwin Fong](https://edfong.github.io/).
+I am a researcher in the [School of Computing and Data Science](https://www.cds.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/), supervised by [Edwin Fong](https://edfong.github.io/).
 
 Previously, I was part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group at [UCL](https://www.ucl.ac.uk/), where I worked with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) on robust Bayesian machine learning. Prior to that, I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics), with a minor in AI Engineering at [TU Delft](https://www.tudelft.nl/en/eemcs).
