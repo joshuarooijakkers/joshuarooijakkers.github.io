@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:medal_military: I am honored to receive the Jan Hemelrijk Award for my master's thesis!
+:medal_military: I am honored to receive the [Jan Hemelrijk Award](https://www.eur.nl/en/news/former-msc-student-joshua-rooijakkers-wins-jan-hemelrijk-award) for my master's thesis!
