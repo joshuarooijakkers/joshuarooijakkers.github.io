@@ -2,7 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Joshua Rooijakkers | Portfolio
+description: Personal website and portfolio of Joshua Rooijakkers.
+keywords: Joshua Rooijakkers, Portfolio, GitHub Pages
 first_name: Joshua
 middle_name: 
 last_name: Rooijakkers
