@@ -23,6 +23,6 @@ announcements:
 
 ---
 
-I am a researcher in the [School of Computing and Data Science](https://www.cds.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/), supervised by [Edwin Fong](https://edfong.github.io/).
+I am a first-year PhD student at Imperial College London, working with [Joey Bose](https://joeybose.github.io/) on generative modeling and AI4Science. 
 
-Previously, I was part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group at [UCL](https://www.ucl.ac.uk/), where I worked with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) on robust Bayesian machine learning. Prior to that, I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics), with a minor in AI Engineering at [TU Delft](https://www.tudelft.nl/en/eemcs).
+Previously, I worked on probabilistic machine learning at [UCL](https://fsml-ucl.github.io/) and the [University of Hong Kong](https://edfong.github.io/). I completed my bachelor's and master's degree in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en/ese/department-econometrics).

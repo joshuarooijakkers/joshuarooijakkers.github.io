@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-31 00:00:00-0400
+date: 2026-09-24 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
- :page_facing_up: Finished writing my first paper [Multi-Output Robust and Conjugate Gaussian Processes](https://arxiv.org/abs/2510.26401)!
+ :page_facing_up: R-MOGP was accepted to NeurIPS 2026!
